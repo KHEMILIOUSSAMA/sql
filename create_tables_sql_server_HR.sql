@@ -1,5 +1,6 @@
 /*** create tables **/
-/* Sql script */
+/* Sql script 13/02/2021 */
+
 CREATE TABLE regions
     ( region_id      int  NOT NULL 
     , region_name    VARCHAR(50) 
